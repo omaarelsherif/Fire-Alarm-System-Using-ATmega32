@@ -1,5 +1,5 @@
 <!-- PROJECT TITLE -->
-<h1 align="center">"Fire Alarm System Using ATmega32"</h1>
+<h1 align="center">Fire Alarm System Using ATmega32</h1>
 
 <!-- OVERVIEW -->
 ## <br>**➲ Overview**
